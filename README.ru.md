@@ -7,4 +7,4 @@
 
 </div>
 
-wiki + t | Structured version of twiki using additional build tools
+wiki + t | Структурированная версия twiki с использованием дополнительных инструментов сборки
