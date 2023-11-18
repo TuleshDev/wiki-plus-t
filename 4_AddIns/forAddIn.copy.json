@@ -1,0 +1,7 @@
+{
+  "copy": {
+    "twiki.twiki": [
+      "Build.config/addIn.json"
+    ]
+  }
+}
