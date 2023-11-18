@@ -1,3 +1,6 @@
 [submodule "1_Origin.wiki-js"]
 	path = 1_Origin.wiki-js
 	url = https://github.com/requarks/wiki
+[submodule "0_Build/ttools"]
+	path = 0_Build/ttools
+	url = https://github.com/TuleshDev/ttools
